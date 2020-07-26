@@ -1,16 +1,20 @@
-### Hi there 👋
+Web and Mobile Apps Developer.
 
-<!--
-**ikhsandev/ikhsandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ikhsan Andriyawan
 
-Here are some ideas to get you started:
+* I'm Ikhsan Andriyawan 👨 (he/him) a freelance Web and Mobile Apps Developer. I live in Wonosobo, Central Java, Indonesia. 🙌 I'm Manage projects with git and understanding to deploy and publish projects on cpanel or vps, EDM and Pop musics lover, and tech enthusiast. 💕
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Github Performance Overall
+
+![Github stats](https://ikhsandev-github-stats.vercel.app/api?username=ikhsandev&show_icons=true&theme=radical)
+
+[![Top Langs](https://ikhsandev-github-stats.vercel.app/api/top-langs/?username=ikhsandev)](https://github.com/ikhsandev/github-readme-stats)
+
+## Current activity
+
+- 💻 I'm currently learning web and mobile app development.
+- 📖 I’m currently learning Progressive Web Apps (PWA);
+- 🤔 My interests are learning about mobile and web development, include front-end development;
+- 💼 I’m pursuing a Bachelor's degree in Informatic Engineering;
+- 💬 Ask me about anything, I am happy to help;
+- 📝 See my <a href="https://www.linkedin.com/in/ikhsan-andriyawan/">linked.in</a> to get more info.
