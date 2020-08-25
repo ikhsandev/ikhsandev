@@ -2,7 +2,7 @@ Web and Mobile Apps Developer.
 
 # Ikhsan Andriyawan
 
-* I'm Ikhsan Andriyawan 👨 (he/him) a freelance Web and Mobile Apps Developer. I live in Wonosobo, Central Java, Indonesia. 🙌 I'm Manage projects with git and understanding to deploy and publish projects on cpanel or vps, EDM and Pop musics lover, and tech enthusiast. 💕
+* I'm Ikhsan Andriyawan 👨 Junior Programmer (Web / Mobile). I live in Wonosobo, Central Java, Indonesia. 🙌 I'm Manage projects with git and understanding to deploy and publish projects on cpanel or vps, EDM and Pop musics lover, and tech enthusiast. 💕
 
 ## Github Performance Overall
 
