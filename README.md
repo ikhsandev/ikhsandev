@@ -1,6 +1,7 @@
 Web and Mobile Apps Developer.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ikhsandev&label=Profile%20views&color=0e75b6&style=flat" alt="ikhsandev" /> </p>
+
 # Ikhsan Andriyawan
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ikhsandev&label=Profile%20views&color=0e75b6&style=flat" alt="ikhsandev" /> </p>
 
 * I'm Ikhsan Andriyawan 👨 Junior Programmer (Web / Mobile). I live in Wonosobo, Central Java, Indonesia. 🙌 I'm Manage projects with git and understanding to deploy and publish projects on cpanel or vps, EDM and Pop musics lover, and tech enthusiast. 💕
 
